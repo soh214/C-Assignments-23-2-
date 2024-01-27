@@ -123,3 +123,5 @@ float radius()
 {
 	return 0.05 + ((rand() % 9996) / 100.0);	// 반지름 (0.05 ~ 100.00 인 실수)   // 0.05 + 99.95
 }
+
+//testing for git commit / push
